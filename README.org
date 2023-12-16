@@ -1,0 +1,9 @@
+* Clith
+
+Common Lisp wITH macro.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/Hectarea1996/clith.git |
+| commit  | 334714b                                       |
+| systems | clith                                         |
+|---------+-----------------------------------------------|
