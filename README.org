@@ -4,6 +4,6 @@ Common Lisp wITH macro.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/HectareaGalbis/clith.git |
-| commit  | 1ad564b                                         |
+| commit  | 51343d4                                         |
 | systems | clith                                           |
 |---------+-------------------------------------------------|
